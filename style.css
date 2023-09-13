@@ -1,0 +1,28 @@
+body 
+{
+color:rgb(0, 248, 95);
+background-color: rgb(14, 1, 34);
+}
+
+.oName
+{
+   color:rgb(10, 156, 214); 
+}
+
+#vPrevia
+{
+  border: dotted;
+  border-radius: 10%  ;
+  border-color:gold;
+  width: 47%;
+  height: 65%;
+}
+
+#bCheck
+{
+ color:blue;   
+}
+#pan
+{
+  color:black;  
+}
